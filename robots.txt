@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://codex-chrome-extension.github.io/sitemap.xml
