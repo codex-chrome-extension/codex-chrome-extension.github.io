@@ -20,4 +20,5 @@ If the documentation told you to open Plugins and add Chrome, and there is no Ch
 
 *This is an independent page maintained by a user of these tools; it is not affiliated with, written by, or endorsed by OpenAI or Google, and all trademarks belong to their respective owners.*
 
+
 _Last reviewed: 2026-09-22_
